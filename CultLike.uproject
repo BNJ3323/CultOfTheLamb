@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "",
+  "Description": "Cult-like prototype (top-down 3D low poly) - UE5.7",
+  "Modules": [
+    {
+      "Name": "CultLike",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
