@@ -1,0 +1,14 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/GameModeBase.h"
+#include "CultGameMode.generated.h"
+
+UCLASS()
+class ACultGameMode : public AGameModeBase
+{
+    GENERATED_BODY()
+
+public:
+    ACultGameMode();
+};
